@@ -1,8 +1,9 @@
 # Practice
-## Elixir repo to practice and experiment with code, function's\n
+## Elixir repo to practice and experiment with code, function's
 
-**TODO: Add description**\n
-*** implemented password generator
+**TODO: Add description**
+
+implemented password generator
 
 ## Installation
 
